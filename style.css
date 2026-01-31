@@ -1,3 +1,9 @@
+/*
+    Author: Taif Shaker
+    Date: January 30, 2026
+    Description: Stylesheet for destination.html page.
+*/
+
 body {
     background-color: white;
     color: #404040;
@@ -35,9 +41,9 @@ blockquote {
 }
 
 p {
-    padding-left: 20px;
     display: block;
     max-width: 500px;
+    padding-left: 20px;
 }
 
 ul {
