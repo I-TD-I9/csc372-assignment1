@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    color: #404040;
+    font-size: 12pt;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #1e90ff;
+    font-size: 32pt;
+    border-bottom: 3px solid #1e90ff;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #1e90ff;
+    font-weight: normal;
+    font-size: 20pt;
+    margin-top: 30px;
+}
+
+a {
+    color: #ff6347;
+}
+
+ul {
+    line-height: 1.5;
+}
+
+em {
+    color: #ff0000fa;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 2px solid #ddd;
+    font-style: italic;
+}
