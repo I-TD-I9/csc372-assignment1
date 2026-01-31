@@ -42,3 +42,8 @@ footer {
     border-top: 2px solid #ddd;
     font-style: italic;
 }
+
+p {
+    display: block;
+    max-width: 500px;
+}

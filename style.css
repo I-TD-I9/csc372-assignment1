@@ -31,6 +31,13 @@ blockquote {
     margin-left: 40px;
     margin-right: 40px;
     padding: 10px;
+    display: inline-block;
+}
+
+p {
+    padding-left: 20px;
+    display: block;
+    max-width: 500px;
 }
 
 ul {
